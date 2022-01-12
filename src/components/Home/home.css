@@ -1,0 +1,23 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 50%;
+  height: 300px;
+  position: relative;
+  /* left: 365px; */
+  top: -165px;
+  background: linear-gradient(90deg, #6776ff 0%, #80ffdb 117.88%);
+  border: 1px solid black;
+}
+
+.btn {
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #fff;
+  padding: 11px;
+  width: 102px;
+  cursor: pointer;
+}
